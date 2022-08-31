@@ -1,0 +1,7 @@
+{
+    "/getProvinceData": {
+      "target": "https://www.td.com",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
